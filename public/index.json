@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Discover what this Hugo theme is all about and the core concepts behind it.\n",
+    "description": "",
+    "tags": null,
+    "title": "Basics",
+    "uri": "/basics/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Hugo Site",
+    "uri": "/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Second Content",
+    "uri": "/basics/second-content/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "First Content",
+    "uri": "/basics/first-content/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Categories",
+    "uri": "/categories/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Tags",
+    "uri": "/tags/"
+  }
+]
