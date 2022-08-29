@@ -1,6 +1,6 @@
 ---
-baseURL: https://dizikloud.ml/
-title: Techie Knowledgebase
+baseURL: https://geekdocs.de/
+title: Geekdocs
 theme: hugo-geekdoc
 
 pygmentsUseClasses: true
@@ -11,7 +11,7 @@ pluralizeListTitles: false
 defaultContentLanguage: en
 
 disablePathToLower: true
-enableGitInfo: false
+enableGitInfo: true
 
 enableRobotsTXT: true
 

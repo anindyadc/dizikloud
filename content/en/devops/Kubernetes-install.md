@@ -1,9 +1,6 @@
 ---
 title: Kubernetes installation Howto
 weight: -20
-geekdocRepo:
-geekdocEditPath:
-geekdocAnchor: false
 ---
 
 Install Kubernetes Cluster on Ubuntu 22.04 with kubeadm.
