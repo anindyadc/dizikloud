@@ -12,7 +12,7 @@ geekdocTagsToMenu: true
 geekdocRepo: https://github.com/thegeeklab/hugo-geekdoc
 geekdocEditPath: edit/main/exampleSite
 
-geekdocSearch: true
+geekdocSearch: false
 geekdocSearchShowParent: true
 
 geekdocLegalNotice: https://thegeeklab.de/legal-notice/#contact-information
