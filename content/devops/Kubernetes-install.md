@@ -7,7 +7,6 @@ Install Kubernetes Cluster on Ubuntu 22.04 with kubeadm.
 
 <!--more-->
 
-{{< toc >}}
 
 ## Upgrade your Ubuntu servers
 
