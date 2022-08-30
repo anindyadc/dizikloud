@@ -281,13 +281,3 @@ We proceed with the container runtime as **Docker CE**.
    ip-172-31-30-23   Ready    control-plane   4h26m   v1.25.0
    ```    
 
-<!--
-{{< hint type=note >}}
-**Info**\
-Keep in mind this method is not recommended and needs some extra steps to get it working.
-If you want to use the Theme as submodule keep in mind that your build process need to
-run the described steps as well.
-{{< /hint >}}
--->
-
-
