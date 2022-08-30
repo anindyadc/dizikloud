@@ -81,12 +81,12 @@ To run containers in Pods, Kubernetes uses a **container runtime**. Supported co
 - CRI-O
 - Containerd
 
-{{< hint type=note >}}
-**Info**\
+
+**Info**
 **Dockershim** has been removed from the Kubernetes project as of release 1.24.
 You need to install a container runtime into each node in the cluster so that Pods can run there. 
 Kubernetes 1.25 requires that you use a runtime that conforms with the Container Runtime Interface (CRI).
-{{< /hint >}}
+
 
 ### Install Docker runtime ###
 
@@ -136,9 +136,9 @@ Kubernetes 1.25 requires that you use a runtime that conforms with the Container
    EOF
    ```
 
-{{< hint type=note >}}
+
 We proceed with the container runtime as **Docker CE**.
-{{< /hint >}}
+
 
 ### Install Mirantis cri-dockerd as Docker Engine shim for Kubernetes ###
 
